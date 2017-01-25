@@ -1,0 +1,24 @@
+{
+  "name": "stockholm-hotline",
+  "version": "1.0.0",
+  "description": "A pointless bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onurcankaya/stockholm-hotline.git"
+  },
+  "author": "Onur Çankaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onurcankaya/stockholm-hotline/issues"
+  },
+  "homepage": "https://github.com/onurcankaya/stockholm-hotline#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
